@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/ertans22"><img src="https://api.daily.dev/devcards/a54c2fb7ac7d49e6b2214bcf5db4d52e.png?r=2hk" width="400" alt="Ertan Şinik's Dev Card"/></a>
+
 <!--
 **sinikertan/sinikertan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
